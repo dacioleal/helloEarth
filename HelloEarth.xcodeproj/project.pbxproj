@@ -19,6 +19,7 @@
 		F344277B1C29DD75008624A1 /* libxml2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = F344277A1C29DD75008624A1 /* libxml2.tbd */; };
 		F344277D1C29DD91008624A1 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = F344277C1C29DD91008624A1 /* libsqlite3.tbd */; };
 		F344277F1C29DDA6008624A1 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F344277E1C29DDA6008624A1 /* CoreLocation.framework */; };
+		F34427841C29E776008624A1 /* ico_localizacion.png in Resources */ = {isa = PBXBuildFile; fileRef = F34427831C29E776008624A1 /* ico_localizacion.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		F344277A1C29DD75008624A1 /* libxml2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libxml2.tbd; path = usr/lib/libxml2.tbd; sourceTree = SDKROOT; };
 		F344277C1C29DD91008624A1 /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
 		F344277E1C29DDA6008624A1 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		F34427831C29E776008624A1 /* ico_localizacion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_localizacion.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				F344275D1C29DA0D008624A1 /* ViewController.h */,
 				F344275E1C29DA0D008624A1 /* ViewController.m */,
 				F34427601C29DA0D008624A1 /* Main.storyboard */,
+				F34427831C29E776008624A1 /* ico_localizacion.png */,
 				F34427631C29DA0D008624A1 /* Assets.xcassets */,
 				F34427651C29DA0D008624A1 /* LaunchScreen.storyboard */,
 				F34427681C29DA0D008624A1 /* Info.plist */,
@@ -195,6 +198,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F34427671C29DA0D008624A1 /* LaunchScreen.storyboard in Resources */,
+				F34427841C29E776008624A1 /* ico_localizacion.png in Resources */,
 				F34427641C29DA0D008624A1 /* Assets.xcassets in Resources */,
 				F34427621C29DA0D008624A1 /* Main.storyboard in Resources */,
 			);
