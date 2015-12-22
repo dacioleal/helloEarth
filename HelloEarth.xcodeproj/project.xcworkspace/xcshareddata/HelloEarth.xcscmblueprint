@@ -1,0 +1,85 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DB33CBD4D80E1B1AD982034BCF4CA065484EA96E" : 0,
+    "3417D484EE489964993A77F8A0AAAE31FFC8EA92" : 0,
+    "D1BB63D501E0048981F00509C5A268D4AF5FEE4C" : 0,
+    "6EE8C3CD1205674099D0F29D1E5116B4056D84DF" : 0,
+    "2E886417438041B07C57F4D680E7E83E5EF0B23B" : 0,
+    "70A8537565E8EBD1B9D364933832E742DD9D1D11" : 0,
+    "9FF210C40B5F6FF575BA5DCEA5467BFAAB7EB8B0" : 0,
+    "62120A694F229133C01EB730D97929A86EE261C0" : 0,
+    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : 0,
+    "04101981B66E318109934C9516F88D824BB96459" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ADAB1A54-59D1-4D14-9B87-18D034AAF178",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DB33CBD4D80E1B1AD982034BCF4CA065484EA96E" : "HelloEarth\/libs\/WhirlyGlobeMaply\/third-party\/libjson\/",
+    "3417D484EE489964993A77F8A0AAAE31FFC8EA92" : "HelloEarth\/libs\/WhirlyGlobeMaply\/third-party\/proj-4\/",
+    "D1BB63D501E0048981F00509C5A268D4AF5FEE4C" : "HelloEarth\/libs\/WhirlyGlobeMaply\/third-party\/SMCalloutView\/",
+    "6EE8C3CD1205674099D0F29D1E5116B4056D84DF" : "HelloEarth\/libs\/WhirlyGlobeMaply\/third-party\/clipper\/",
+    "2E886417438041B07C57F4D680E7E83E5EF0B23B" : "HelloEarth\/libs\/WhirlyGlobeMaply\/",
+    "70A8537565E8EBD1B9D364933832E742DD9D1D11" : "HelloEarth\/libs\/WhirlyGlobeMaply\/third-party\/KissXML\/",
+    "9FF210C40B5F6FF575BA5DCEA5467BFAAB7EB8B0" : "HelloEarth\/libs\/WhirlyGlobeMaply\/third-party\/glues\/",
+    "62120A694F229133C01EB730D97929A86EE261C0" : "HelloEarth\/libs\/WhirlyGlobeMaply\/third-party\/shapelib\/",
+    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : "HelloEarth\/libs\/WhirlyGlobeMaply\/third-party\/AFNetworking\/",
+    "04101981B66E318109934C9516F88D824BB96459" : "HelloEarth\/libs\/WhirlyGlobeMaply\/third-party\/fmdb\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HelloEarth",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HelloEarth.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ccgus\/fmdb.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "04101981B66E318109934C9516F88D824BB96459"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mousebird\/WhirlyGlobe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2E886417438041B07C57F4D680E7E83E5EF0B23B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mousebird\/proj-4.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3417D484EE489964993A77F8A0AAAE31FFC8EA92"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mousebird\/shapelib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "62120A694F229133C01EB730D97929A86EE261C0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mousebird\/clipper",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6EE8C3CD1205674099D0F29D1E5116B4056D84DF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mousebird\/KissXML.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "70A8537565E8EBD1B9D364933832E742DD9D1D11"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lunixbochs\/glues.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9FF210C40B5F6FF575BA5DCEA5467BFAAB7EB8B0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nfarina\/calloutview.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D1BB63D501E0048981F00509C5A268D4AF5FEE4C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mousebird\/libjson.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DB33CBD4D80E1B1AD982034BCF4CA065484EA96E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AFNetworking\/AFNetworking",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8"
+    }
+  ]
+}
